@@ -6,6 +6,7 @@ Given a specific condition, for example, given “red cube” and “blue cylind
 <img width="650" alt="image" src="https://github.com/jeannineshiu/Conditional-DDPM-for-image-synthesis/assets/43820595/0455ffdf-5fee-428e-b1fb-d10516ce6e78">
 
 ## Algorithm
+<img width="880" alt="image" src="https://github.com/jeannineshiu/Conditional-DDPM-for-image-synthesis/assets/43820595/0b99dcc3-6122-472f-b259-9567069083bf">
 <img width="994" alt="image" src="https://github.com/jeannineshiu/Conditional-DDPM-for-image-synthesis/assets/43820595/6ae1ac7d-d737-4243-ad3b-5b049d774814">
 
 ## Model Architecture
